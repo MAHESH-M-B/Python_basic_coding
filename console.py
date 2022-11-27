@@ -1,8 +1,6 @@
 name=input('enter your name')
 print(name)
 
-
-
 # using function
 
 def console(name):
